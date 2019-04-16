@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.example.demo.dao.CalendarDao">
+    <resultMap id="BaseResultMap" type="com.example.demo.entity.Calendar">
+        <result column="eventid" property="eventid" />
+        <result column="username" property="username" />
+        <result column="topic" property="topic"/>
+        <result column="begintime" property="begintime"/>
+        <result column="endtime" property="endtime"/>
+        <result column="iscycle" property="iscycle"/>
+        <result column="cycmode" property="cycmode"/>
+        <result column="location" property="location"/>
+        <result column="isremind" property="isremind" />
+        <result column="remindtime" property="remindtime" />
+        <result column="remindeway" property="remindeway"/>
+        <result column="notes" property="notes"/>
+    </resultMap>
+    <select id="list" resultMap="BaseResultMap" parameterType="com.example.demo.entity.Calendar">
+        select * from uevent where username = #{username}
+    </select>
+    <select id="find" resultMap="BaseResultMap" parameterType="com.example.demo.entity.Calendar">
+        select * from uevent where eventid = #{eventid}
+    </select>
+    <delete id="delete" parameterType="com.example.demo.entity.Calendar">
+        delete from uevent where eventid=#{eventid}
+    </delete>
+    <update id="update" parameterType="com.example.demo.entity.Calendar">
+        update uevent set topic = #{calendar.topic},begintime = #{calendar.begintime},endtime = #{calendar.endtime},
+        cycmode = #{calendar.cycmode}, location = #{calendar.location}, remindtime = #{calendar.remindtime}, remindway = #{calendar.remindway},
+         notes = #{calendar.notes} where eventid = #{calendar.eventid}
+    </update>
+    <insert id="add" parameterType="com.example.demo.entity.Calendar">
+        insert into uevent (username,topic,begintime,endtime,cycmode,location,remindtime,remindway,notes)
+        values(#{username},#{topic},#{begintime},#{endtime},#{cycmode},#{location},#{remindtime},#{remindway},#{notes})
+    </insert>
+    <!--
+
+    <select id="finduser" resultMap="BaseResultMap" parameterType="com.example.demo.entity.Users">
+        select * from users where username=#{username}
+    </select>
+    <update id="updatemobile" parameterType="com.example.demo.entity.Admin">
+        update admin set mobile = #{mobile} where username = #{username}
+    </update>
+    <update id="banuser" parameterType="com.example.demo.entity.Admin">
+        update admin set status = #{status} where username = #{username}
+    </update>
+    -->
+    <!-- <select id="finduser" resultMap="BaseResultMap" parameterType="com.example.demo.entity.Admin">
+        select * from admin where username=#{username}
+    </select>
+    <update id="updatepasswd" parameterType="com.example.demo.entity.Admin">
+        update admin set passwd = #{passwd} where username = #{username}
+    </update>
+    <select id="listsup" resultMap="BaseResultMap" parameterType="com.example.demo.entity.Admin">
+        select username, realname from admin where utype = 7
+    </select>
+    <select id="findutype" resultMap="BaseResultMap" parameterType="com.example.demo.entity.Admin">
+        select * from admin where username=#{username}
+    </select>-->
+</mapper>

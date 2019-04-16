@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.example.demo.dao.GusersDao">
+    <resultMap id="BaseResultMap" type="com.example.demo.entity.GUsers">
+        <result column="group_id" property="groupid" />
+        <result column="group_name" property="groupname" />
+        <result column="username" property="username"/>
+        <result column="level" property="level"/>
+    </resultMap>
+    <insert id="addgus" parameterType="com.example.demo.entity.GUsers">
+        insert into gusers (group_id,group_name,username)
+        values(#{groupid},#{groupname},#{username})
+    </insert>
+    <select id="mygrp" resultMap="BaseResultMap" parameterType="com.example.demo.entity.GUsers">
+        select a.*,b.create_time from gusers as a,gtotal as b where a.username=#{username} and a.group_id=b.group_id
+    </select>
+    <select id="list" resultMap="BaseResultMap" parameterType="com.example.demo.entity.GUsers">
+        select * from gusers where group_name=#{groupname}
+    </select>
+    <select id="find" resultMap="BaseResultMap" parameterType="com.example.demo.entity.GUsers">
+        select * from gusers where group_name=#{groupname} and username=#{username}
+    </select>
+    <select id="count" resultMap="BaseResultMap" parameterType="com.example.demo.entity.GUsers">
+        select count(group_id) as num from gusers where group_id=#{groupid}
+    </select>
+    <update id="upgus" parameterType="com.example.demo.entity.GUsers">
+        update gusers set level = #{level} where username = #{username} and group_name=#{groupname}
+    </update>
+    <delete id="del" parameterType="com.example.demo.entity.Calendar">
+        delete from gusers where group_name=#{groupname} and username=#{username}
+    </delete>
+<!--
+
+    <select id="listuser" resultMap="BaseResultMap" parameterType="com.example.demo.entity.Users">
+        select * from users
+    </select>
+    <select id="list" resultMap="BaseResultMap" parameterType="com.example.demo.entity.Users">
+        select * from users where username=#{username}
+    </select>
+
+    <delete id="deleteuser" parameterType="com.example.demo.entity.Users">
+        delete from users where username=#{username}
+    </delete>
+    <update id="updateuser" parameterType="com.example.demo.entity.Users">
+        update users set realname=#{users.realname},sex=#{users.sex},telphone=#{users.telphone},email=#{users.email},
+        grade=#{users.grade} where username = #{users.username}
+    </update>-->
+</mapper>

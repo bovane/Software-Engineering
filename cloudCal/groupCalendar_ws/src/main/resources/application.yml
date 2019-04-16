@@ -1,0 +1,33 @@
+spring:
+  datasource:
+      driver-class-name: com.mysql.jdbc.Driver
+      #url: jdbc:mysql://localhost:3306/bimsmart?useUnicode=true&characterEncoding=utf-8
+      #username: root
+      #password: 123456
+      url: jdbc:mysql://localhost:3306/uevent?useUnicode=true&characterEncoding=utf-8
+      username: root
+      password: 123456
+mybatis:
+  mapper-locations: classpath:mapper/*.xml
+  type-aliases-package: com.example.demo.entity
+
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+  thymeleaf:
+    mode: LEGACYHTML5
+    encoding: utf-8
+    content-type: text/html
+    cache: false
+    uploadDir:
+     E:\wxdqenroll1.0\files\
+server:
+  port: 9081
+
+logging:
+  path: c:/yb/
+
+url:
+  basepath: C:\yb\ybprjprocessingweb\static\Files\sign\
+  listingpath: C:\yb\ybprjprocessingweb\static\Files\listing\
+  statementpath: C:\yb\ybprjprocessingweb\static\Files\statement\
+  number: 1

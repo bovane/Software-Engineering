@@ -1,7 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b84fd6b-12c6-4fb7-a64e-53d99ae1a314" name="Default Changelist" comment="" />
+    <list default="true" id="2b84fd6b-12c6-4fb7-a64e-53d99ae1a314" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bovane/observerPattern/EmailObsever.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bovane/observerPattern/IMalfunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bovane/observerPattern/IMalfunctionObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bovane/observerPattern/Malfunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bovane/observerPattern/MessageObsever.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bovane/observerPattern/TestObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bovane/referenceCodes/AMDCPU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bovane/referenceCodes/AliPayMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bovane/referenceCodes/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bovane/referenceCodes/BLOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bovane/referenceCodes/Bill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bovane/referenceCodes/BufferedInputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bovane/referenceCodes/CPU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bovane/referenceCodes/CPUFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bovane/referenceCodes/CalcCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bovane/referenceCodes/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bovane/referenceCodes/CashDevice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bovane/referenceCodes/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bovane/referenceCodes/CreditCardMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bovane/referenceCodes/DBLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bovane/referenceCodes/FileInputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bovane/referenceCodes/FileLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bovane/referenceCodes/FilterInputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bovane/referenceCodes/ICommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bovane/referenceCodes/ILog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bovane/referenceCodes/IPayMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bovane/referenceCodes/IZJSULog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bovane/referenceCodes/InputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bovane/referenceCodes/IntelCPU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bovane/referenceCodes/Leader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bovane/referenceCodes/LineNumberInputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bovane/referenceCodes/LogAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bovane/referenceCodes/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bovane/referenceCodes/PayMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bovane/referenceCodes/President.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bovane/referenceCodes/Processor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bovane/referenceCodes/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bovane/referenceCodes/UpperInputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bovane/referenceCodes/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bovane/referenceCodes/VendingMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bovane/referenceCodes/WeChatMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bovane/referenceCodes/ZJSUDBLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bovane/referenceCodes/ZJSUFileLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bovane/strategyPattern/Cast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bovane/strategyPattern/Chaid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bovane/strategyPattern/DataMining.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bovane/strategyPattern/ICurrentAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bovane/strategyPattern/Quest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bovane/strategyPattern/TestAlgo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/bovane/decoratorPattern/TestInputStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/com/bovane/decoratorPattern/TestInputStream.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,121 +66,105 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/bovane/adapterPattern/LogAdapter.java">
+        <entry file="file://$PROJECT_DIR$/src/com/bovane/observerPattern/EmailObsever.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="224">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
               <folding>
-                <element signature="e#162#163#0" expanded="true" />
-                <element signature="e#207#208#0" expanded="true" />
-                <element signature="e#234#235#0" expanded="true" />
-                <element signature="e#260#261#0" expanded="true" />
+                <element signature="e#130#131#0" expanded="true" />
+                <element signature="e#151#152#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/bovane/decoratorPattern/IInputStream.java">
+        <entry file="file://$PROJECT_DIR$/src/com/bovane/observerPattern/IMalfunctionObserver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+            <state relative-caret-position="168">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/bovane/decoratorPattern/FileInputStream.java">
+        <entry file="file://$PROJECT_DIR$/src/com/bovane/strategyPattern/ICurrentAlgorithm.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+            <state relative-caret-position="168">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/bovane/strategyPattern/DataMining.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="56">
+              <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
               <folding>
-                <element signature="e#116#117#0" expanded="true" />
-                <element signature="e#137#138#0" expanded="true" />
+                <element signature="e#156#157#0" expanded="true" />
+                <element signature="e#192#193#0" expanded="true" />
+                <element signature="e#261#262#0" expanded="true" />
+                <element signature="e#311#312#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/bovane/decoratorPattern/StringBufferedInputStream.java">
+        <entry file="file://$PROJECT_DIR$/src/com/bovane/strategyPattern/Chaid.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/bovane/decoratorPattern/ByteArrayInputStream.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/bovane/decoratorPattern/FilterInputStream.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+            <state relative-caret-position="224">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
               <folding>
-                <element signature="e#183#184#0" expanded="true" />
-                <element signature="e#231#232#0" expanded="true" />
+                <element signature="e#115#116#0" expanded="true" />
+                <element signature="e#136#137#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/bovane/decoratorPattern/BufferedInputStream.java">
+        <entry file="file://$PROJECT_DIR$/src/com/bovane/strategyPattern/TestAlgo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
-              <folding>
-                <element signature="e#194#195#0" expanded="true" />
-                <element signature="e#241#242#0" expanded="true" />
-                <element signature="e#253#254#0" expanded="true" />
-                <element signature="e#316#317#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="28">
+              <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/bovane/decoratorPattern/DataInputStream.java">
+        <entry file="file://$PROJECT_DIR$/src/com/bovane/referenceCodes/President.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
-              <folding>
-                <element signature="e#187#188#0" expanded="true" />
-                <element signature="e#235#236#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="28">
+              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/bovane/decoratorPattern/LineNumberInputStream.java">
+        <entry file="file://$PROJECT_DIR$/src/com/bovane/referenceCodes/VendingMachine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="36" />
-              <folding>
-                <element signature="e#199#200#0" expanded="true" />
-                <element signature="e#247#248#0" expanded="true" />
-                <element signature="e#247#248#0" expanded="true" />
-                <element signature="e#307#308#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="28">
+              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/bovane/decoratorPattern/TestInputStream.java">
+        <entry file="file://$PROJECT_DIR$/src/com/bovane/referenceCodes/CalcCommand.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+            <state relative-caret-position="-322">
+              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/bovane/strategyPattern/Quest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -141,32 +179,63 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/bovane/simpleFactory/IPlayer.java" />
-        <option value="$PROJECT_DIR$/src/com/bovane/simpleFactory/WindowMediaPlayer.java" />
-        <option value="$PROJECT_DIR$/src/com/bovane/simpleFactory/RealPlayer.java" />
-        <option value="$PROJECT_DIR$/src/com/bovane/simpleFactory/QuickTime.java" />
-        <option value="$PROJECT_DIR$/src/com/bovane/simpleFactory/PlayerFactory.java" />
-        <option value="$PROJECT_DIR$/src/com/bovane/simpleFactory/PlayTest.java" />
-        <option value="$PROJECT_DIR$/src/com/bovane/singletonPattern/LogSingleton.java" />
-        <option value="$PROJECT_DIR$/src/com/bovane/adapterPattern/ILog.java" />
-        <option value="$PROJECT_DIR$/src/com/bovane/adapterPattern/DatabaseLog.java" />
-        <option value="$PROJECT_DIR$/src/com/bovane/adapterPattern/FileLog.java" />
-        <option value="$PROJECT_DIR$/src/com/bovane/adapterPattern/ILogAdaptee.java" />
-        <option value="$PROJECT_DIR$/src/com/bovane/adapterPattern/DatabaseLog1.java" />
-        <option value="$PROJECT_DIR$/src/com/bovane/adapterPattern/FileLog1.java" />
-        <option value="$PROJECT_DIR$/src/com/bovane/adapterPattern/LogAdapter.java" />
-        <option value="$PROJECT_DIR$/src/com/bovane/decoratorPattern/IInputStream.java" />
-        <option value="$PROJECT_DIR$/src/com/bovane/decoratorPattern/ByteArrayInputStream.java" />
-        <option value="$PROJECT_DIR$/src/com/bovane/decoratorPattern/FileInputStream.java" />
-        <option value="$PROJECT_DIR$/src/com/bovane/decoratorPattern/FilterInputStream.java" />
-        <option value="$PROJECT_DIR$/src/com/bovane/decoratorPattern/StringBufferedInputStream.java" />
-        <option value="$PROJECT_DIR$/src/com/bovane/decoratorPattern/LineNumberInputStream.java" />
-        <option value="$PROJECT_DIR$/src/com/bovane/decoratorPattern/BufferedInputStream.java" />
-        <option value="$PROJECT_DIR$/src/com/bovane/decoratorPattern/DataInputStream.java" />
         <option value="$PROJECT_DIR$/src/com/bovane/decoratorPattern/TestInputStream.java" />
+        <option value="$PROJECT_DIR$/src/com/bovane/referenceCodes/AliPayMethod.java" />
+        <option value="$PROJECT_DIR$/src/com/bovane/referenceCodes/AMDCPU.java" />
+        <option value="$PROJECT_DIR$/src/com/bovane/referenceCodes/App.java" />
+        <option value="$PROJECT_DIR$/src/com/bovane/referenceCodes/Bill.java" />
+        <option value="$PROJECT_DIR$/src/com/bovane/referenceCodes/BLOrder.java" />
+        <option value="$PROJECT_DIR$/src/com/bovane/referenceCodes/BufferedInputStream.java" />
+        <option value="$PROJECT_DIR$/src/com/bovane/referenceCodes/CalcCommand.java" />
+        <option value="$PROJECT_DIR$/src/com/bovane/referenceCodes/Calculator.java" />
+        <option value="$PROJECT_DIR$/src/com/bovane/referenceCodes/CashDevice.java" />
+        <option value="$PROJECT_DIR$/src/com/bovane/referenceCodes/Computer.java" />
+        <option value="$PROJECT_DIR$/src/com/bovane/referenceCodes/CPU.java" />
+        <option value="$PROJECT_DIR$/src/com/bovane/referenceCodes/CPUFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/bovane/referenceCodes/CreditCardMethod.java" />
+        <option value="$PROJECT_DIR$/src/com/bovane/referenceCodes/DBLog.java" />
+        <option value="$PROJECT_DIR$/src/com/bovane/referenceCodes/FileInputStream.java" />
+        <option value="$PROJECT_DIR$/src/com/bovane/referenceCodes/FileLog.java" />
+        <option value="$PROJECT_DIR$/src/com/bovane/referenceCodes/FilterInputStream.java" />
+        <option value="$PROJECT_DIR$/src/com/bovane/referenceCodes/ICommand.java" />
+        <option value="$PROJECT_DIR$/src/com/bovane/referenceCodes/ILog.java" />
+        <option value="$PROJECT_DIR$/src/com/bovane/referenceCodes/InputStream.java" />
+        <option value="$PROJECT_DIR$/src/com/bovane/referenceCodes/IntelCPU.java" />
+        <option value="$PROJECT_DIR$/src/com/bovane/referenceCodes/IPayMethod.java" />
+        <option value="$PROJECT_DIR$/src/com/bovane/referenceCodes/IZJSULog.java" />
+        <option value="$PROJECT_DIR$/src/com/bovane/referenceCodes/Leader.java" />
+        <option value="$PROJECT_DIR$/src/com/bovane/referenceCodes/LineNumberInputStream.java" />
+        <option value="$PROJECT_DIR$/src/com/bovane/referenceCodes/LogAdapter.java" />
+        <option value="$PROJECT_DIR$/src/com/bovane/referenceCodes/Manager.java" />
+        <option value="$PROJECT_DIR$/src/com/bovane/referenceCodes/PayMethod.java" />
+        <option value="$PROJECT_DIR$/src/com/bovane/referenceCodes/President.java" />
+        <option value="$PROJECT_DIR$/src/com/bovane/referenceCodes/Processor.java" />
+        <option value="$PROJECT_DIR$/src/com/bovane/referenceCodes/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/bovane/referenceCodes/UpperInputStream.java" />
+        <option value="$PROJECT_DIR$/src/com/bovane/referenceCodes/User.java" />
+        <option value="$PROJECT_DIR$/src/com/bovane/referenceCodes/VendingMachine.java" />
+        <option value="$PROJECT_DIR$/src/com/bovane/referenceCodes/WeChatMethod.java" />
+        <option value="$PROJECT_DIR$/src/com/bovane/referenceCodes/ZJSUDBLog.java" />
+        <option value="$PROJECT_DIR$/src/com/bovane/referenceCodes/ZJSUFileLog.java" />
+        <option value="$PROJECT_DIR$/src/com/bovane/observerPattern/IObserver.java" />
+        <option value="$PROJECT_DIR$/src/com/bovane/observerPattern/MessageObsever.java" />
+        <option value="$PROJECT_DIR$/src/com/bovane/strategyPattern/Cast.java" />
+        <option value="$PROJECT_DIR$/src/com/bovane/strategyPattern/Quest.java" />
+        <option value="$PROJECT_DIR$/src/com/bovane/observerPattern/TestObserver.java" />
+        <option value="$PROJECT_DIR$/src/com/bovane/observerPattern/Malfunction.java" />
+        <option value="$PROJECT_DIR$/src/com/bovane/observerPattern/IMalfunction.java" />
+        <option value="$PROJECT_DIR$/src/com/bovane/observerPattern/IMalfunctionObserver.java" />
+        <option value="$PROJECT_DIR$/src/com/bovane/observerPattern/EmailObsever.java" />
+        <option value="$PROJECT_DIR$/src/com/bovane/strategyPattern/DataMining.java" />
+        <option value="$PROJECT_DIR$/src/com/bovane/strategyPattern/ICurrentAlgorithm.java" />
+        <option value="$PROJECT_DIR$/src/com/bovane/strategyPattern/Chaid.java" />
+        <option value="$PROJECT_DIR$/src/com/bovane/strategyPattern/TestAlgo.java" />
       </list>
     </option>
   </component>
@@ -186,13 +255,14 @@
     <option name="width" value="1750" />
     <option name="height" value="980" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -216,20 +286,23 @@
               <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="bovane" type="462c0819:PsiDirectoryNode" />
-              <item name="decoratorPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="strategyPattern" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555124220998" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556423931145" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Facets" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -237,6 +310,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.bovane.strategyPattern" />
+      <recent name="com.bovane.observerPattern" />
       <recent name="com.bovane.decoratorPattern" />
       <recent name="com.bovane.adapterPattern" />
       <recent name="com.bovane.simpleFactory" />
@@ -254,13 +329,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestInputStream">
+  <component name="RunManager" selected="Application.TestAlgo">
     <configuration name="PlayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bovane.simpleFactory.PlayTest" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.bovane.simpleFactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAlgo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bovane.strategyPattern.TestAlgo" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bovane.strategyPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -283,6 +371,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestAlgo" />
         <item itemvalue="Application.TestInputStream" />
         <item itemvalue="Application.PlayTest" />
       </list>
@@ -300,17 +389,17 @@
       <updated>1554968357375</updated>
       <workItem from="1554968364317" duration="3304000" />
       <workItem from="1555119796537" duration="3899000" />
+      <workItem from="1556416640383" duration="7522000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7203000" />
+    <option name="totallyTimeSpent" value="14725000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="68" y="20" width="1400" height="784" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2533532" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25707898" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -319,7 +408,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3782542" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.04601227" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -345,194 +434,13 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/bovane/simpleFactory/PlayerFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bovane/simpleFactory/RealPlayer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="48" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bovane/simpleFactory/QuickTime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bovane/simpleFactory/WindowMediaPlayer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="55" selection-start-line="4" selection-start-column="55" selection-end-line="4" selection-end-column="55" />
-          <folding>
-            <element signature="e#110#111#0" expanded="true" />
-            <element signature="e#175#176#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bovane/simpleFactory/PlayTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bovane/simpleFactory/IPlayer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bovane/singletonPattern/LogSingleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="10" column="46" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bovane/adapterPattern/ILog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bovane/adapterPattern/FileLog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bovane/adapterPattern/DatabaseLog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
-          <folding>
-            <element signature="e#103#104#0" expanded="true" />
-            <element signature="e#124#125#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bovane/adapterPattern/DatabaseLog1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bovane/adapterPattern/FileLog1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bovane/adapterPattern/ILogAdaptee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bovane/adapterPattern/LogAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#162#163#0" expanded="true" />
-            <element signature="e#207#208#0" expanded="true" />
-            <element signature="e#234#235#0" expanded="true" />
-            <element signature="e#260#261#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bovane/decoratorPattern/ByteArrayInputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bovane/decoratorPattern/IInputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bovane/decoratorPattern/StringBufferedInputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bovane/decoratorPattern/FilterInputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-          <folding>
-            <element signature="e#183#184#0" expanded="true" />
-            <element signature="e#231#232#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/bovane/decoratorPattern/LineNumberInputStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="36" />
+        <state relative-caret-position="224">
+          <caret line="10" column="36" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="36" />
           <folding>
             <element signature="e#199#200#0" expanded="true" />
             <element signature="e#247#248#0" expanded="true" />
-            <element signature="e#247#248#0" expanded="true" />
-            <element signature="e#307#308#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bovane/decoratorPattern/FileInputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
-          <folding>
-            <element signature="e#116#117#0" expanded="true" />
-            <element signature="e#137#138#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bovane/decoratorPattern/BufferedInputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
-          <folding>
-            <element signature="e#194#195#0" expanded="true" />
-            <element signature="e#241#242#0" expanded="true" />
-            <element signature="e#253#254#0" expanded="true" />
-            <element signature="e#316#317#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bovane/decoratorPattern/DataInputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
-          <folding>
-            <element signature="e#187#188#0" expanded="true" />
-            <element signature="e#235#236#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -541,6 +449,382 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bovane/referenceCodes/AliPayMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bovane/referenceCodes/AMDCPU.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" selection-start-column="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bovane/referenceCodes/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" selection-start-column="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bovane/referenceCodes/Bill.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" selection-start-column="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bovane/referenceCodes/BLOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" selection-start-column="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bovane/referenceCodes/BufferedInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" selection-start-column="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bovane/referenceCodes/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" selection-start-column="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bovane/referenceCodes/CashDevice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" selection-start-column="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bovane/referenceCodes/Computer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" selection-start-column="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bovane/referenceCodes/CPU.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" selection-start-column="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bovane/referenceCodes/CPUFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" selection-start-column="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bovane/referenceCodes/CreditCardMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" selection-start-column="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bovane/referenceCodes/DBLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" selection-start-column="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bovane/referenceCodes/FileInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" selection-start-column="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bovane/referenceCodes/FileLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" selection-start-column="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bovane/referenceCodes/FilterInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" selection-start-column="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bovane/referenceCodes/ICommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" selection-start-column="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bovane/referenceCodes/ILog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" selection-start-column="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bovane/referenceCodes/InputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" selection-start-column="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bovane/referenceCodes/IntelCPU.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" selection-start-column="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bovane/referenceCodes/IPayMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" selection-start-column="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bovane/referenceCodes/IZJSULog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" selection-start-column="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bovane/referenceCodes/Leader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" selection-start-column="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bovane/referenceCodes/LineNumberInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" selection-start-column="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bovane/referenceCodes/LogAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" selection-start-column="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bovane/referenceCodes/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" selection-start-column="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bovane/referenceCodes/UpperInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" selection-start-column="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bovane/referenceCodes/WeChatMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" selection-start-column="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bovane/referenceCodes/ZJSUDBLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" selection-start-column="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bovane/referenceCodes/ZJSUFileLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" selection-start-column="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bovane/referenceCodes/PayMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bovane/referenceCodes/Manager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bovane/referenceCodes/Processor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bovane/referenceCodes/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding>
+            <element signature="e#128#138#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bovane/strategyPattern/Cast.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bovane/observerPattern/MessageObsever.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="32" lean-forward="true" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+          <folding>
+            <element signature="e#132#133#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bovane/observerPattern/TestObserver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bovane/observerPattern/Malfunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+          <folding>
+            <element signature="e#129#130#0" expanded="true" />
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#258#259#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bovane/observerPattern/IMalfunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#292#293#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bovane/observerPattern/IMalfunctionObserver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bovane/observerPattern/EmailObsever.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#130#131#0" expanded="true" />
+            <element signature="e#151#152#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bovane/strategyPattern/DataMining.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+          <folding>
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bovane/strategyPattern/ICurrentAlgorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bovane/strategyPattern/Quest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bovane/strategyPattern/Chaid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#115#116#0" expanded="true" />
+            <element signature="e#136#137#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bovane/strategyPattern/TestAlgo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bovane/referenceCodes/President.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bovane/referenceCodes/VendingMachine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bovane/referenceCodes/CalcCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-322">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
         </state>
       </provider>
     </entry>
